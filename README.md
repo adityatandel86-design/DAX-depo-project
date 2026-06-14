@@ -2,13 +2,13 @@ DAX Depo – Advanced DAX Calculations in Power BI
 
 Project Overview
 
-DAX Depo is a Power BI project focused on building advanced analytical calculations using DAX (Data Analysis Expressions). The project demonstrates data modeling, calculated columns, measures, and business KPI creation using a Sales and Returns dataset.
+DAX Depo is a Power BI project focused on advanced DAX calculations, data modeling, KPI development, and analytical reporting. The project demonstrates how DAX functions can be used to generate meaningful business insights from Sales and Returns data without relying on traditional charts and dashboards.
 
 ---
 
 Objective
 
-The objective of this project is to create meaningful business insights using DAX functions and a well-structured data model without relying on multiple visualizations.
+The primary objective of this project is to build a robust Power BI data model and perform advanced calculations using DAX to analyze sales performance, profitability, returns, and time-based business metrics.
 
 ---
 
@@ -29,8 +29,7 @@ A star schema data model was created by establishing relationships between fact 
 
 Model View
 
-"Model View" (<img width="1920" height="1080" alt="modelview" src="https://github.com/user-attachments/assets/1a7ec58a-b4c2-4468-808d-c2794607e676" />)
-
+"Model View" (Images/model_view.png)
 
 ---
 
@@ -49,14 +48,15 @@ Customer_Dim
 
 Calculated Columns Preview
 
-"Calculated Columns" (<img width="1920" height="1080" alt="calculated columns" src="https://github.com/user-attachments/assets/14f7c145-f488-4689-8d8c-39123739396e" />)
-
+"Calculated Columns" (Images/calculated_columns.png)
 
 ---
 
-Measures Created
+DAX Measures
 
-The following DAX measures were implemented:
+A dedicated Measure Table was created to organize all DAX measures.
+
+Measures Created
 
 - Total Sales
 - Total Cost
@@ -68,8 +68,22 @@ The following DAX measures were implemented:
 
 Measure Table
 
-"Measure Table" (<img width="1920" height="1080" alt="measure_table" src="https://github.com/user-attachments/assets/7f0aa659-5ba1-48e9-850a-221b824687dd" />)
+"Measure Table" (Images/measure_table.png)
 
+---
+
+Matrix Visual Analysis
+
+All analytical results were displayed using Matrix visuals grouped by:
+
+- Region
+- Month
+- Product Category
+- Customer Segment
+
+Matrix Visual
+
+"Matrix Visual" (Images/matrix_visual.png)
 
 ---
 
@@ -121,25 +135,26 @@ Filter Context Functions
 
 ---
 
-Tools Used
+Tools & Technologies
 
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 - Data Modeling
+- Matrix Visual
 
 ---
 
 Key Learnings
 
+- Advanced DAX Calculations
 - Data Modeling and Relationships
-- Calculated Columns
-- DAX Measures
-- Time Intelligence
-- Filter Context Analysis
-- Business KPI Development
+- Time Intelligence Analysis
+- Filter Context Management
+- KPI Development
+- Matrix-Based Reporting
 
 ---
 
 Project Outcome
 
-Successfully developed a Power BI analytical model using advanced DAX calculations, calculated columns, and measures to generate business insights from sales and returns data.
+Successfully developed a Power BI analytical model using advanced DAX calculations, calculated columns, measures, time intelligence functions, and matrix-based reporting to generate actionable business insights from sales and returns data.
