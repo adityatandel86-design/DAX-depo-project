@@ -29,7 +29,8 @@ A star schema data model was created by establishing relationships between fact 
 
 Model View
 
-"Model View" (Images/model_view.png)
+"Model View" (<img width="1920" height="1080" alt="modelview" src="https://github.com/user-attachments/assets/4284575a-0401-4598-b17d-d10255afb70b" />)
+
 
 ---
 
@@ -48,7 +49,8 @@ Customer_Dim
 
 Calculated Columns Preview
 
-"Calculated Columns" (Images/calculated_columns.png)
+"Calculated Columns" (<img width="1920" height="1080" alt="calculated columns" src="https://github.com/user-attachments/assets/8c76a433-1e86-4da2-a8e0-fd05d8bd57d9" />)
+
 
 ---
 
@@ -68,7 +70,8 @@ Measures Created
 
 Measure Table
 
-"Measure Table" (Images/measure_table.png)
+"Measure Table" (<img width="1920" height="1080" alt="measure_table" src="https://github.com/user-attachments/assets/b1318ae2-0f92-429e-9bd5-1dac65371875" />)
+
 
 ---
 
@@ -83,7 +86,8 @@ All analytical results were displayed using Matrix visuals grouped by:
 
 Matrix Visual
 
-"Matrix Visual" (Images/matrix_visual.png)
+"Matrix Visual" (<img width="1920" height="1080" alt="matrix visual" src="https://github.com/user-attachments/assets/3b637107-e45d-4e04-bf0d-ab2375c787a5" />)
+
 
 ---
 
